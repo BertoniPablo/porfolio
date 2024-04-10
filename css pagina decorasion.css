@@ -63,4 +63,14 @@ nav a{
 }
 html body img{
     margin-left: 1600px;
+    border-radius: 60%;
+}
+.conjunto{
+    Display: flex;
+    flex-direction:row;
+}
+.imagendemi{
+    display:flex;
+    Flex-direction:column;
+    margin-right: -400px;
 }
